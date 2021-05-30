@@ -26,7 +26,16 @@
   padding-top: 20px;
   font-size: large;
 }
-
+.MainContentImage {
+  width: 100%;
+}
+.MainContainer {
+  padding: 5rem;
+  display: flex;
+  justify-items: center;
+  width: 100%;
+  flex-wrap: wrap;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -54,4 +63,6 @@ tr {
 
 .card {
   width: 18rem;
+  padding: 1rem;
+  margin-right: 4rem;
 }
