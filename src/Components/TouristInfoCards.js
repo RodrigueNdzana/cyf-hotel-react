@@ -32,6 +32,7 @@ const TouristInfoCards = () => {
         <img
           src="https://eu-assets.simpleview-europe.com/manchester2016/imageresizer/?image=%2Fdmsimgs%2FSelfridges_1220px_x_619px_292611928.jpg&action=FeaturedItems1x1"
           className="MainContentImage"
+          alt="MainContentImage"
         />
         <h1>Manchester</h1>
         <p>
